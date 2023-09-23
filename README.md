@@ -9,3 +9,5 @@ With this dashboard, I was able to assist the store outlet in achieving the foll
 - Compare sales, profits, and costs of the current month with the previous month's sales statistics.
 - Keep a record of daily sales for each day of the month.
 - Utilize cards to display summarized data, including total gross sales, total cost, net profit, and the number of items sold per month.
+
+Skills and softwares: PowerBI, PowerPoint, Insight documentation and communication.
